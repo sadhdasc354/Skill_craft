@@ -1,7 +1,7 @@
 # Skill_craft
 
 Data set - http://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
-complete univariate analysis and bivariate analysis
+
 
 Problem Statement
 
@@ -13,7 +13,7 @@ We aggregated screen movements into screen-fixations using a Salvucci & Goldberg
 
 Solution
 
-Completed with a small trick Converted the target variable from continous variable into logical variable(0,1)
+Complete univariate analysis and bivariate analysis and Completed with a small trick Converted the target variable from continous variable into logical variable(0,1)
 
 0 means do not possess Perception Action Cycles
 
